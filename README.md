@@ -14,6 +14,8 @@ ___
 - script `code_compress.gd` with compress code
 - script `main.gd` with all godot audio to data and back to audio functions
 
+Usage - convert short segments like "sound of note" for MIDI like sound shaders.
+
 ___
 
 *it is part of this project and audio shader* https://www.shadertoy.com/view/WctcWf

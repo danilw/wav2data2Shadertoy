@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/16bit_stereo_1sec_mainSound_gen_C.wav-2b728847ef6aaad42fe0c7899de76e9b.sample"
+
+[deps]
+
+source_file="res://16bit_stereo_1sec_mainSound_gen_C.wav"
+dest_files=[ "res://.import/16bit_stereo_1sec_mainSound_gen_C.wav-2b728847ef6aaad42fe0c7899de76e9b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
